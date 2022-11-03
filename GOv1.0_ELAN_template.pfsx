@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1280,710</Object>
+    </pref>
+    <prefList key="SegmentationViewer.TierOrder">
+        <String>Clip_name_dir</String>
+        <String>Focal_number</String>
+        <String>Context_focal</String>
+        <String>Others3m</String>
+        <String>Com_number</String>
+        <String>Exchange_part</String>
+        <String>G_rcp</String>
+        <String>FE_rcp</String>
+        <String>Voc_rcp</String>
+        <String>BhvCh_start</String>
+        <String>Latency</String>
+        <String>Vocalisation_record</String>
+        <String>Facial_expression_record</String>
+        <String>Gesture_record</String>
+        <String>MAU_duration</String>
+        <String>Bout_part</String>
+        <String>Comment</String>
+        <String>Clip_name_axis</String>
+        <String>Rcp_Voc_axis</String>
+        <String>Rcp_FE_axis</String>
+        <String>Sgn_Voc_axis</String>
+        <String>Sgn_FE_axis</String>
+        <String>Gesture_record2</String>
+        <String>2MAU_duration</String>
+        <String>Bout_part2</String>
+    </prefList>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="LayoutManager.ControlPanelWidth">
+        <Int>241</Int>
+    </pref>
+    <pref key="TextViewer.TierName">
+        <String>Com_number</String>
+    </pref>
+    <pref key="TokenizeDialog.DestTier">
+        <String>Gesture_record</String>
+    </pref>
+    <pref key="SegmentationViewer.SelectTierMode">
+        <String>Tier</String>
+    </pref>
+    <prefList key="MultiTierViewer.CollapsedTiers"/>
+    <prefList key="ExportTabDialog.TierOrder">
+        <String>2Body_con</String>
+        <String>2Body_sgn</String>
+        <String>2Con_lat</String>
+        <String>2Direct_G</String>
+        <String>2Distance_rcp</String>
+        <String>2Emphasis</String>
+        <String>2Flexion</String>
+        <String>2G_coding</String>
+        <String>2Lat_bim</String>
+        <String>2Mech_effective</String>
+        <String>2Object_used</String>
+        <String>2Orientation</String>
+        <String>2Rcp_G</String>
+        <String>2Rcp_VA</String>
+        <String>2Rcp_arousal</String>
+        <String>2Rec_number</String>
+        <String>2Sequence_part</String>
+        <String>2Sgn_FE</String>
+        <String>2Sgn_Voc</String>
+        <String>2Sgn_arousal</String>
+        <String>2Sgn_lat</String>
+        <String>2with_Object</String>
+        <String>Audible_info</String>
+        <String>Body_con</String>
+        <String>Body_sgn</String>
+        <String>Bout_part</String>
+        <String>Clip_name</String>
+        <String>Com_number</String>
+        <String>Comment</String>
+        <String>Con_lat</String>
+        <String>Direct_G</String>
+        <String>Directed_to</String>
+        <String>Distance_rcp</String>
+        <String>Emphasis</String>
+        <String>Exchange_part</String>
+        <String>FE_rcp</String>
+        <String>Facial_expression_record</String>
+        <String>Flexion</String>
+        <String>G_coding</String>
+        <String>G_rcp</String>
+        <String>Gaze_before</String>
+        <String>Gaze_during</String>
+        <String>Gesture_record</String>
+        <String>Gesture_record2</String>
+        <String>Goal</String>
+        <String>Goal_met</String>
+        <String>Lat_bim</String>
+        <String>Mech_effective</String>
+        <String>Object_used</String>
+        <String>Orientation</String>
+        <String>Persistence</String>
+        <String>Rcp_FE</String>
+        <String>Rcp_FE_axis</String>
+        <String>Rcp_G</String>
+        <String>Rcp_VA</String>
+        <String>Rcp_Voc</String>
+        <String>Rcp_Voc_axis</String>
+        <String>Rcp_arousal</String>
+        <String>Rcp_location</String>
+        <String>Rcp_post_context</String>
+        <String>Rcp_prior_context</String>
+        <String>Rcp_reaction</String>
+        <String>Rec_number</String>
+        <String>Recipient</String>
+        <String>Response_waiting</String>
+        <String>Sequence_part</String>
+        <String>Sgn_FE</String>
+        <String>Sgn_FE_axis</String>
+        <String>Sgn_Voc</String>
+        <String>Sgn_Voc_axis</String>
+        <String>Sgn_arousal</String>
+        <String>Sgn_lat</String>
+        <String>Sgn_location</String>
+        <String>Sgn_post_context</String>
+        <String>Sgn_prior_context</String>
+        <String>Signaller</String>
+        <String>Vis_before</String>
+        <String>Vis_during</String>
+        <String>Voc_rcp</String>
+        <String>Vocalisation_record</String>
+        <String>with_Object</String>
+        <String>Clip_name_axis</String>
+        <String>BhvCh_start</String>
+        <String>G_dur_ana</String>
+        <String>Signaller_axis</String>
+        <String>Recipient_axis</String>
+        <String>Contact_count</String>
+        <String>2G_dur_ana</String>
+        <String>2Contact_count</String>
+        <String>MAU_duration</String>
+        <String>2MAU_duration</String>
+        <String>Bout_part2</String>
+        <String>2Audible_info</String>
+        <String>2Rcp_reaction</String>
+        <String>2Sgn_location</String>
+        <String>2Rcp_location</String>
+        <String>2Vis_before</String>
+        <String>2Vis_during</String>
+        <String>2Gaze_before</String>
+        <String>2Gaze_during</String>
+        <String>2Response_waiting</String>
+        <String>2Persistence</String>
+        <String>2Goal_met</String>
+        <String>2Rcp_FE</String>
+        <String>2Rcp_Voc</String>
+        <String>Latency</String>
+        <String>Focal_number</String>
+        <String>Clip_name_foc</String>
+        <String>Focal_ID</String>
+        <String>Context_focal</String>
+        <String>Comment_focal</String>
+        <String>Others3m</String>
+        <String>HRank</String>
+        <String>GR_c</String>
+        <String>GG_c</String>
+        <String>GG_a</String>
+        <String>GG_sv</String>
+        <String>Immatures</String>
+    </prefList>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>4.3893676</Float>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="Bout_part2">
+            <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="Comment">
+            <Object class="java.awt.Color">90,90,160</Object>
+        </pref>
+        <pref key="Facial_expression_record">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="Clip_name_dir">
+            <Object class="java.awt.Color">160,160,90</Object>
+        </pref>
+        <pref key="Bout_part">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="Clip_name_axis">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="Com_number">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="Voc_rcp">
+            <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="Gesture_record2">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
+        <pref key="BhvCh_start">
+            <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="Latency">
+            <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
+        <pref key="G_rcp">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="FE_rcp">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="Vocalisation_record">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+        <pref key="Exchange_part">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="Focal_number">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+        <pref key="Gesture_record">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+    </prefGroup>
+    <prefGroup key="TierFonts"/>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">108,220</Object>
+    </pref>
+    <prefList key="SegmentationViewer.HiddenItems">
+        <String>Focal_number</String>
+        <String>Exchange_part</String>
+        <String>FE_rcp</String>
+        <String>Voc_rcp</String>
+        <String>Vocalisation_record</String>
+        <String>Facial_expression_record</String>
+        <String>Comment</String>
+        <String>Clip_name_axis</String>
+        <String>Rcp_Voc_axis</String>
+        <String>Rcp_FE_axis</String>
+        <String>Sgn_Voc_axis</String>
+        <String>Sgn_FE_axis</String>
+        <String>Bout_part2</String>
+    </prefList>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>25.0</Float>
+    </pref>
+    <prefList key="TranscriptionTable.NonEditableTiers"/>
+    <pref key="TimeLineViewer.ReducedTierHeight">
+        <Boolean>true</Boolean>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="DetachedEditor.Bounds">
+        <Object class="java.awt.Rectangle">747,508,907,300</Object>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers">
+        <String>Vocalisation_record</String>
+        <String>Facial_expression_record</String>
+        <String>FE_rcp</String>
+        <String>Axis_Clip_name</String>
+    </prefList>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <prefGroup key="TranscriptionTable.TierMap"/>
+    <pref key="TimeScaleBeginTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>0</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="G1_Direct_G">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="C_Clip_name">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Cod_status">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP1_Response_waiting">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G2_Sgn_lat">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Axis_Recipient">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="G1_Rep_count">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="C_Comment">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Rec_number">
+            <Object class="java.awt.Color">0,153,102</Object>
+        </pref>
+        <pref key="G2_Body_sgn">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="C_Rcp_post_context">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="C_Goal">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Sgn_Voc">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Bout_part2">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="G1_Con_lat">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Rcp_G">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="Bout_part1">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="BP2_Rcp_arousal">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G2_Rep_count">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Direct_G">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP1_Rcp_arousal">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="Voc_rcp">
+            <Object class="java.awt.Color">0,0,204</Object>
+        </pref>
+        <pref key="BP1_Rcp_reaction">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP1_Gaze_during">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G2_Effectiveness">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Rcp_location">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G2_with_Object">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Axis_Rcp_FE">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="G1_with_Object">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP1_Goal_met">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G1_Dur_ana">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP1_Rcp_G">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G1_Sgn_lat">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Body_sgn">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Axis_Signaller">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="G2_Cod_status">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Effectiveness">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Sequence_part">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Sgn_Voc">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Distance_rcp">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_MAU_duration">
+            <Object class="java.awt.Color">0,153,102</Object>
+        </pref>
+        <pref key="Facial_expression_record">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="G2_Rcp_VA">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Object_contacted">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Body_con">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Lat_bim">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Sgn_location">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="Com_number">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="G_rcp">
+            <Object class="java.awt.Color">0,0,204</Object>
+        </pref>
+        <pref key="G2_Audible">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Outcome">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="G2_Emphasis">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Sgn_FE">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Axis_Clip_name">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="G2_Flexion">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Response_waiting">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP2_Vis_during">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G2_Dur_ana">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_MAU_duration">
+            <Object class="java.awt.Color">0,153,102</Object>
+        </pref>
+        <pref key="C_Rcp_prior_context">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="C_Recipient">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Vocalisation_record">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="Exchange_part">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="BP1_Rcp_Voc">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G1_Orientation">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Distance_rcp">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Orientation">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Rcp_reaction">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G2_Rec_number">
+            <Object class="java.awt.Color">0,153,102</Object>
+        </pref>
+        <pref key="G1_Lat_bim">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="C_Directed_to">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP1_Rcp_FE">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="FE_rcp">
+            <Object class="java.awt.Color">0,0,204</Object>
+        </pref>
+        <pref key="G1_Sequence_part">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Object_contacted">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Audible">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Axis_Sgn_Voc">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="BP1_Rcp_location">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G1_Sgn_FE">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Gaze_before">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP1_Gaze_before">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G1_Comment_rec">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Comment_rec">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="Axis_FE">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="C_Signaller">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Rcp_Voc">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP2_Gaze_during">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP1_Persistence">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G1_Flexion">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP2_Persistence">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="G1_Rcp_VA">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="C_Sgn_prior_context">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="BP1_Vis_during">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP2_Sgn_arousal">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP1_Sgn_arousal">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP2_Goal_met">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP1_Sgn_location">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BP2_Rcp_FE">
+            <Object class="java.awt.Color">153,0,51</Object>
+        </pref>
+        <pref key="BhvCh1">
+            <Object class="java.awt.Color">0,0,204</Object>
+        </pref>
+        <pref key="Gesture_record1">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="BhvCh2">
+            <Object class="java.awt.Color">0,0,204</Object>
+        </pref>
+        <pref key="Gesture_record2">
+            <Object class="java.awt.Color">0,102,255</Object>
+        </pref>
+        <pref key="Axis_Rcp_Voc">
+            <Object class="java.awt.Color">153,153,0</Object>
+        </pref>
+        <pref key="C_Sgn_post_context">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G1_Emphasis">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Con_lat">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+        <pref key="G2_Body_con">
+            <Object class="java.awt.Color">0,51,51</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>Com_number</String>
+        <String>C_Clip_name</String>
+        <String>C_Signaller</String>
+        <String>C_Recipient</String>
+        <String>C_Sgn_prior_context</String>
+        <String>C_Rcp_prior_context</String>
+        <String>C_Directed_to</String>
+        <String>C_Goal</String>
+        <String>C_Sgn_post_context</String>
+        <String>C_Rcp_post_context</String>
+        <String>C_Comment</String>
+        <String>Vocalisation_record</String>
+        <String>Facial_expression_record</String>
+        <String>Exchange_part</String>
+        <String>G_rcp</String>
+        <String>Voc_rcp</String>
+        <String>FE_rcp</String>
+        <String>Outcome</String>
+        <String>BhvCh1</String>
+        <String>BhvCh2</String>
+        <String>Gesture_record1</String>
+        <String>G1_MAU_duration</String>
+        <String>G1_Dur_ana</String>
+        <String>G1_Rep_count</String>
+        <String>G1_Rec_number</String>
+        <String>G1_Sequence_part</String>
+        <String>G1_Audible</String>
+        <String>G1_Body_sgn</String>
+        <String>G1_Sgn_lat</String>
+        <String>G1_Lat_bim</String>
+        <String>G1_Body_con</String>
+        <String>G1_Con_lat</String>
+        <String>G1_Direct_G</String>
+        <String>G1_with_Object</String>
+        <String>G1_Object_contacted</String>
+        <String>G1_Flexion</String>
+        <String>G1_Orientation</String>
+        <String>G1_Emphasis</String>
+        <String>G1_Sgn_FE</String>
+        <String>G1_Sgn_Voc</String>
+        <String>G1_Distance_rcp</String>
+        <String>G1_Rcp_VA</String>
+        <String>G1_Effectiveness</String>
+        <String>G1_Cod_status</String>
+        <String>G1_Comment_rec</String>
+        <String>Bout_part1</String>
+        <String>BP1_Sgn_location</String>
+        <String>BP1_Rcp_location</String>
+        <String>BP1_Sgn_arousal</String>
+        <String>BP1_Rcp_arousal</String>
+        <String>BP1_Gaze_before</String>
+        <String>BP1_Gaze_during</String>
+        <String>BP1_Vis_during</String>
+        <String>BP1_Rcp_FE</String>
+        <String>BP1_Rcp_Voc</String>
+        <String>BP1_Rcp_G</String>
+        <String>BP1_Rcp_reaction</String>
+        <String>BP1_Response_waiting</String>
+        <String>BP1_Persistence</String>
+        <String>BP1_Goal_met</String>
+        <String>Gesture_record2</String>
+        <String>G2_MAU_duration</String>
+        <String>G2_Dur_ana</String>
+        <String>G2_Rep_count</String>
+        <String>G2_Rec_number</String>
+        <String>G2_Sequence_part</String>
+        <String>G2_Audible</String>
+        <String>G2_Body_sgn</String>
+        <String>G2_Sgn_lat</String>
+        <String>G2_Lat_bim</String>
+        <String>G2_Body_con</String>
+        <String>G2_Con_lat</String>
+        <String>G2_with_Object</String>
+        <String>G2_Object_contacted</String>
+        <String>G2_Direct_G</String>
+        <String>G2_Orientation</String>
+        <String>G2_Flexion</String>
+        <String>G2_Emphasis</String>
+        <String>G2_Sgn_FE</String>
+        <String>G2_Sgn_Voc</String>
+        <String>G2_Distance_rcp</String>
+        <String>G2_Rcp_VA</String>
+        <String>G2_Effectiveness</String>
+        <String>G2_Cod_status</String>
+        <String>G2_Comment_rec</String>
+        <String>Bout_part2</String>
+        <String>BP2_Sgn_location</String>
+        <String>BP2_Rcp_location</String>
+        <String>BP2_Sgn_arousal</String>
+        <String>BP2_Rcp_arousal</String>
+        <String>BP2_Vis_during</String>
+        <String>BP2_Gaze_before</String>
+        <String>BP2_Gaze_during</String>
+        <String>BP2_Rcp_FE</String>
+        <String>BP2_Rcp_Voc</String>
+        <String>BP2_Rcp_G</String>
+        <String>BP2_Rcp_reaction</String>
+        <String>BP2_Response_waiting</String>
+        <String>BP2_Persistence</String>
+        <String>BP2_Goal_met</String>
+        <String>Axis_Clip_name</String>
+        <String>Axis_Recipient</String>
+        <String>Axis_Rcp_Voc</String>
+        <String>Axis_Rcp_FE</String>
+        <String>Axis_Signaller</String>
+        <String>Axis_Sgn_Voc</String>
+        <String>Axis_FE</String>
+    </prefList>
+    <prefGroup key="TierHighlightColors">
+        <pref key="Bout_part2">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Clip_name_dir">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="2Rec_number">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="G2_Rec_number">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Bout_part">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Bout_part1">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Com_number">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Gesture_record1">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Gesture_record2">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="G1_Rec_number">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Exchange_part">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Focal_number">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Rec_number">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="D_Clip_name">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+        <pref key="Gesture_record">
+            <Object class="java.awt.Color">153,153,153</Object>
+        </pref>
+    </prefGroup>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>2</Int>
+    </pref>
+    <prefList key="TranscriptionTable.HiddenTiers"/>
+    <pref key="TimeLineViewer.ActiveAnnotationBold">
+        <Boolean>true</Boolean>
+    </pref>
+    <pref key="MultiTierViewer.TierSortingMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>4</Int>
+    </pref>
+    <pref key="SegmentationViewer.ZoomLevel">
+        <Float>25.0</Float>
+    </pref>
+    <pref key="TimeLineViewer.FontSize">
+        <Int>18</Int>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>Com_number</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>46080</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>40</Int>
+    </pref>
+    <pref key="ExportTabDialog.SelectTiersMode">
+        <String>Annotators</String>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="ExportTabDialog.selectedTiers">
+        <String>BhvCh_start</String>
+        <String>Latency</String>
+        <String>MAU_duration</String>
+        <String>Rec_number</String>
+    </prefList>
+    <pref key="SegmentationViewer.ActiveTier">
+        <String>Context_focal</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="GridViewer.TierName">
+        <String>G1_Rec_number</String>
+    </pref>
+    <pref key="MediaControlVolume">
+        <Float>0.7</Float>
+    </pref>
+    <pref key="SubTitleViewer.TierName-4">
+        <String>Goal</String>
+    </pref>
+    <pref key="SubTitleViewer.TierName-1">
+        <String>Gesture_record</String>
+    </pref>
+    <pref key="SubTitleViewer.TierName-3">
+        <String>G_rcp</String>
+    </pref>
+    <pref key="SubTitleViewer.TierName-2">
+        <String>Directed_to</String>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <pref key="TokenizeDialog.SourceTier">
+        <String>Gesture_record</String>
+    </pref>
+    <prefList key="ExportTabDialog.LastSelectedItems">
+        <String>BhvCh_start</String>
+        <String>Latency</String>
+        <String>MAU_G1</String>
+        <String>Rec_G1</String>
+    </prefList>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+    <prefList key="ExportTabDialog.HiddenTiers">
+        <String>Gesture_record</String>
+        <String>Sgn_arousal</String>
+        <String>Rcp_arousal</String>
+        <String>Sequence_part</String>
+        <String>Distance_rcp</String>
+        <String>Rcp_VA</String>
+        <String>Audible_info</String>
+        <String>Body_sgn</String>
+        <String>Body_con</String>
+        <String>Direct_G</String>
+        <String>Emphasis</String>
+        <String>Orientation</String>
+        <String>Flexion</String>
+        <String>Object_used</String>
+        <String>Rcp_reaction</String>
+        <String>Clip_name_axis</String>
+        <String>Sgn_prior_context</String>
+        <String>Rcp_prior_context</String>
+        <String>Goal</String>
+        <String>Sgn_post_context</String>
+        <String>Rcp_post_context</String>
+        <String>Directed_to</String>
+        <String>Bout_part</String>
+        <String>Sgn_location</String>
+        <String>Rcp_location</String>
+        <String>Vis_before</String>
+        <String>Vis_during</String>
+        <String>Gaze_before</String>
+        <String>Gaze_during</String>
+        <String>Response_waiting</String>
+        <String>Persistence</String>
+        <String>Goal_met</String>
+        <String>Exchange_part</String>
+        <String>with_Object</String>
+        <String>Sgn_lat</String>
+        <String>Con_lat</String>
+        <String>Rcp_G</String>
+        <String>G_rcp</String>
+        <String>G_dur_ana</String>
+        <String>Vocalisation_record</String>
+        <String>Facial_expression_record</String>
+        <String>Com_number</String>
+        <String>Rcp_Voc_axis</String>
+        <String>Rcp_FE_axis</String>
+        <String>Sgn_Voc_axis</String>
+        <String>Sgn_FE_axis</String>
+        <String>FE_rcp</String>
+        <String>Voc_rcp</String>
+        <String>Signaller_axis</String>
+        <String>Recipient_axis</String>
+        <String>Rcp_FE</String>
+        <String>Rcp_Voc</String>
+        <String>Mech_effective</String>
+        <String>Recipient</String>
+        <String>Signaller</String>
+        <String>Clip_name</String>
+        <String>Sgn_Voc</String>
+        <String>Sgn_FE</String>
+        <String>Comment</String>
+        <String>G_coding</String>
+        <String>Contact_count</String>
+        <String>Lat_bim</String>
+        <String>Gesture_record2</String>
+        <String>2Rec_number</String>
+        <String>2Sgn_arousal</String>
+        <String>2Rcp_arousal</String>
+        <String>2Sequence_part</String>
+        <String>2Distance_rcp</String>
+        <String>2Rcp_VA</String>
+        <String>2Body_sgn</String>
+        <String>2Body_con</String>
+        <String>2Direct_G</String>
+        <String>2Emphasis</String>
+        <String>2Orientation</String>
+        <String>2Flexion</String>
+        <String>2Object_used</String>
+        <String>2with_Object</String>
+        <String>2G_dur_ana</String>
+        <String>2Mech_effective</String>
+        <String>2Sgn_Voc</String>
+        <String>2Sgn_FE</String>
+        <String>2G_coding</String>
+        <String>2Contact_count</String>
+        <String>2Sgn_lat</String>
+        <String>2Lat_bim</String>
+        <String>2Con_lat</String>
+        <String>2MAU_duration</String>
+        <String>Bout_part2</String>
+        <String>2Audible_info</String>
+        <String>2Rcp_reaction</String>
+        <String>2Sgn_location</String>
+        <String>2Rcp_location</String>
+        <String>2Vis_before</String>
+        <String>2Vis_during</String>
+        <String>2Gaze_before</String>
+        <String>2Gaze_during</String>
+        <String>2Response_waiting</String>
+        <String>2Persistence</String>
+        <String>2Goal_met</String>
+        <String>2Rcp_G</String>
+        <String>2Rcp_FE</String>
+        <String>2Rcp_Voc</String>
+        <String>Focal_number</String>
+        <String>Clip_name_foc</String>
+        <String>Focal_ID</String>
+        <String>Context_focal</String>
+        <String>Comment_focal</String>
+        <String>Others3m</String>
+        <String>HRank</String>
+        <String>GR_c</String>
+        <String>GG_c</String>
+        <String>GG_a</String>
+        <String>GG_sv</String>
+        <String>Immatures</String>
+    </prefList>
+    <pref key="SegmentationManager.SelectedTabIndex">
+        <Int>1</Int>
+    </pref>
+    <prefList key="SegmentationViewer.HiddenTiers">
+        <String>Focal_number</String>
+        <String>Exchange_part</String>
+        <String>FE_rcp</String>
+        <String>Voc_rcp</String>
+        <String>Vocalisation_record</String>
+        <String>Facial_expression_record</String>
+        <String>Comment</String>
+        <String>Clip_name_axis</String>
+        <String>Rcp_Voc_axis</String>
+        <String>Rcp_FE_axis</String>
+        <String>Sgn_Voc_axis</String>
+        <String>Sgn_FE_axis</String>
+        <String>Bout_part2</String>
+    </prefList>
+</preferences>

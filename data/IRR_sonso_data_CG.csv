@@ -1,0 +1,26 @@
+﻿Rec_number,Com_number,Clip_name,MAU_end_T,GA_end_T,Outcome_T,Gesture_record,Coder,MAU_value,GA_value,G_start_T,G_end_T
+104994,102354,Tape 3 Clip 15 16-11,2.013,4.53,4.91,Tch,CG,MAU_in,GA_stop_in,1.48,4.91
+101768,100797a,Tape 6 Clip 14 1-12,32.96,32.96,40.173,Obj_shk,CG,MAU_in,GA_stop_in,31.64,32.96
+101273,100596,Budongo 15 Clip 150 20.01.08,23.97,23.97,27.192,Obj_shk,CG,MAU_in,GA_stop_in,23.16,24.085
+100979,100515,Budongo 18 Clip 29 3.02.08,24.468,24.468,36.017,Obj_mv_unatt,CG,MAU_in,GA_stop_in,23.92,24.529
+102109,100951,Budongo 26 Clip 50 24.06.08,17.012,20.099,20.099,Prs_dir,CG,MAU_in,GA_stop_in,15.24,20.099
+102558,101176,Budongo 31 Clip 31 03.08.08,5.746,5.746,10.88,Hit_objgd,CG,MAU_in,GA_stop_in,5.138,5.786
+102746,101258,Budongo 33 Clip 149 17.08.08,5.126,5.603,5.603,Prs_dir,CG,MAU_in,GA_stop_in,3.16,5.603
+102752,101264,Budongo 33 Clip 173 17.08.08,16.426,17.48,17.48,Prs_dir,CG,MAU_in,GA_stop_in,13.76,17.48
+103034,101388,Budongo 37 Clip 141 10.09.08,12.387,13.135,13.135,Prs_dir,CG,MAU_in,GA_stop_in,11.08,13.135
+103104,101432,Budongo 40 Clip 161 02.10.08,7.6,10.14,10.14,Prs_dir,CG,MAU_in,GA_stop_in,6.24,10.14
+103113,101439,Budongo 41 Clip 13 05.10.08,29.078,29.446,29.753,Push_dir,CG,MAU_in,GA_stop_in,28.84,29.58
+103438,101580,Budongo 46 Clip 02 28.10.08,20.536,22.146,22.146,Prs_dir,CG,MAU_in,GA_stop_in,17.2,22.146
+103774,101758b,Budongo 52 Clip 188 24.11.08,3.8,3.8,3.775,Prs_dir,CG,MAU_in,GA_stop_in,3.04,3.8
+103796,101768,Budongo 52 Clip 382 26.11.08,10.55,10.706,13.679,Pull_dir,CG,MAU_in,GA_stop_in,9.599,10.98
+103969,101860b,Budongo 54 Clip 126 07.12.08,50.12,50.917,52.9,Push,CG,MAU_in,GA_stop_in,48.56,51.68
+103999,101882,Budongo 54 Clip 181 08.12.08,4.134,4.253,5.267,Push_dir,CG,MAU_in,GA_stop_in,3.92,4.302
+104100,101909a,Budongo 58 Clip 554 12.05.09,2.329,4.728,6.666,Bg_ld_scr,CG,MAU_in,GA_stop_in,1.48,4.905
+104568,102152,Budongo 69 Clip 76 14.07.09,5.554,6.194,6.311,Push_dir,CG,MAU_in,GA_stop_in,4.36,6.194
+104880,102303,Budongo 72 Clip 04 03.08.09,6.78,9.568,9.568,Prs_dir,CG,MAU_in,GA_stop_in,5.56,9.568
+100100,100081,Budongo 2011-02-04 Clip 9,19.62,20.39,20.39,Prs_gn_bwd,CG,MAU_in,GA_stop_in,17.8,20.39
+100207,100142,Budongo 2011-06-30 Clip 19,9.772,10.309,10.309,Tch,CG,MAU_in,GA_stop_in,8.2,10.309
+100377,100251,Budongo 2012-06-30 Clip 23,3.95,5.27,5.7,Push_dir,CG,MAU_in,GA_stop_in,2.84,5.5
+100587,100342a,Budongo 2012-07-21 Clip 26,53.85,54.74,54.74,Reach,CG,MAU_in,GA_stop_in,52.96,54.74
+100024,100018,Budongo 2011-01-18 Clip 56,3.246,3.246,2.996,Prs_dir,AS,MAU_in,GA_stop_in,1.48,3.246
+100025,100019,Budongo 2011-01-18 Clip 56,89.76,93.02,93.02,Prs_dir,AS,MAU_in,GA_stop_in,87.92,93.02

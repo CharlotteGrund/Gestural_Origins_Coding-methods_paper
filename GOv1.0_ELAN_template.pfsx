@@ -228,7 +228,7 @@
     </prefGroup>
     <prefGroup key="TierFonts"/>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">108,220</Object>
+        <Object class="java.awt.Point">345,230</Object>
     </pref>
     <prefList key="SegmentationViewer.HiddenItems">
         <String>Focal_number</String>
